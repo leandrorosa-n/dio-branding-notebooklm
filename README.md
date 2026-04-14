@@ -2,7 +2,7 @@
 O estudo de interesse para o projeto em Inteligência Artificial Generativa, resume em como desenvolver um roteiro para trabalhar na criação de branding de uma loja de calçados. 
 Elaborando estratégias, visão, plano de atividades e posicionamento como ponto chave. 
 
-# Fontes pesquisadas
+# Fontes de pesquisa
 - https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/Manual%20completo%20de%20branding%20para%20neg%C3%B3cios.pdf
 - https://www.rdstation.com/blog/marketing/o-que-branding/
 - https://advertising.amazon.com/pt-br/library/guides/how-to-build-a-brand
