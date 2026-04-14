@@ -1,6 +1,7 @@
 # DIO | TEMA: Branding para Loja de Calçados
 O estudo de interesse para o projeto em Inteligência Artificial Generativa, resume em como desenvolver um roteiro para trabalhar na criação de branding de uma loja de calçados. 
 Elaborando estratégias, visão, plano de atividades e posicionamento como ponto chave. 
+(https://www.dio.me/)
 
 # Fontes de pesquisa
 - https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/PE/Anexos/Manual%20completo%20de%20branding%20para%20neg%C3%B3cios.pdf
